@@ -1,0 +1,38 @@
+.implementação em componentes
+.framework para construir interfaces
+.arquitetura MVC -> camada de view
+
+
+.principais conceitos:
+tudo é componentes
+
+tudo é reativo
+
+super rápido
+
+.principais características
+
+componente de arquivo único
+single file componente
+
+condição e loops
+bind
+two-way data binding
+eventos
+watchers
+
+dependências:
+JavaScript intermediário
+HTML
+CSS 
+
+Ecossistema
+vue dev tools
+vue cli
+vue router
+vuex gerenciador de estado global
+vue server render
+
+dando super poderes ao vuejs
+Nuxt.js - framework do vuejs
+quasar
